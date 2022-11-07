@@ -4,3 +4,5 @@ from .linked_binary_tree_abstract import LinkedBinaryTreeExtAbstract
 from .data_structures import PriorityQueueBase
 from .unsorted_priority_queue import UnsortedPriorityQueue
 from .priority_queue_stack import PriorityQueueStack
+from .data_structures import ArrayHeap
+from .heap_queue import HeapQueue
